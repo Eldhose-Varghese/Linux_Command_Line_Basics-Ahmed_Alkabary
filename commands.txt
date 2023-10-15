@@ -9,3 +9,7 @@ cal -3
 Folder in WINDOWS ~ Directory in Linux
 Tree Directory Structure - Refer to the image
 pwd - print working directory
+cd .. - parent directory movement
+cd /  - root directory
+cd ~  - home directory
+cd -  - previous working directory
