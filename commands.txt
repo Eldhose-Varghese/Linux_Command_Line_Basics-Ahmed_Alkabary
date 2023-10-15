@@ -1,2 +1,11 @@
 CTRL + ALT + D --> Open terminal shortcut
 xed -> open text editor
+Commands are case sensitive - "date" will give you current date and time. "Date" wll be error.
+cal
+cal -y
+cal 1990
+cal 1 2023
+cal -3
+Folder in WINDOWS ~ Directory in Linux
+Tree Directory Structure - Refer to the image
+pwd - print working directory
